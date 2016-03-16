@@ -1,0 +1,8 @@
+D:\Sources\SYORM.Net\SYORM.Net\bin\Debug\SQLite.Interop.dll
+D:\Sources\SYORM.Net\SYORM.Net\bin\Debug\SYORM.Net.dll
+D:\Sources\SYORM.Net\SYORM.Net\bin\Debug\SYORM.Net.pdb
+D:\Sources\SYORM.Net\SYORM.Net\bin\Debug\System.Data.SQLite.dll
+D:\Sources\SYORM.Net\SYORM.Net\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Sources\SYORM.Net\SYORM.Net\obj\Debug\SYORM.Net.dll
+D:\Sources\SYORM.Net\SYORM.Net\obj\Debug\SYORM.Net.pdb
+D:\Sources\SYORM.Net\SYORM.Net\obj\Debug\SYORM.Net.csprojResolveAssemblyReference.cache

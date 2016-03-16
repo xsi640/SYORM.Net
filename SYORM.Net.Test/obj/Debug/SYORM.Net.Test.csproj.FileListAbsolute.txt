@@ -1,0 +1,10 @@
+D:\Sources\SYORM.Net\SYORM.Net.Test\bin\Debug\SQLite.Interop.dll
+D:\Sources\SYORM.Net\SYORM.Net.Test\bin\Debug\SYORM.Net.Test.dll.config
+D:\Sources\SYORM.Net\SYORM.Net.Test\bin\Debug\SYORM.Net.Test.dll
+D:\Sources\SYORM.Net\SYORM.Net.Test\bin\Debug\SYORM.Net.Test.pdb
+D:\Sources\SYORM.Net\SYORM.Net.Test\bin\Debug\SYORM.Net.dll
+D:\Sources\SYORM.Net\SYORM.Net.Test\bin\Debug\System.Data.SQLite.dll
+D:\Sources\SYORM.Net\SYORM.Net.Test\bin\Debug\SYORM.Net.pdb
+D:\Sources\SYORM.Net\SYORM.Net.Test\obj\Debug\SYORM.Net.Test.csprojResolveAssemblyReference.cache
+D:\Sources\SYORM.Net\SYORM.Net.Test\obj\Debug\SYORM.Net.Test.dll
+D:\Sources\SYORM.Net\SYORM.Net.Test\obj\Debug\SYORM.Net.Test.pdb

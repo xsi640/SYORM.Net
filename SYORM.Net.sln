@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYORM.Net", "SYORM.Net\SYORM.Net.csproj", "{00E26185-13C2-4FB0-AD10-E50419BC23EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYORM.Net.Test", "SYORM.Net.Test\SYORM.Net.Test.csproj", "{275E6D7B-F736-4860-94F6-EA4E0551F351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E26185-13C2-4FB0-AD10-E50419BC23EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E26185-13C2-4FB0-AD10-E50419BC23EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E26185-13C2-4FB0-AD10-E50419BC23EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E26185-13C2-4FB0-AD10-E50419BC23EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275E6D7B-F736-4860-94F6-EA4E0551F351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275E6D7B-F736-4860-94F6-EA4E0551F351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275E6D7B-F736-4860-94F6-EA4E0551F351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275E6D7B-F736-4860-94F6-EA4E0551F351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
